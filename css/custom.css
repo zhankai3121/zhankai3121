@@ -1,3 +1,6 @@
 .top-nav-collapse{
     /* opacity: 0.5 !important; */
 }
+#board {
+    background: url("/img/fn.png") no-repeat center center;
+}
