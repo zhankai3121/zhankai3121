@@ -3,4 +3,5 @@
 }
 #board {
     /* background: url('/zhankai3121/img/fn.png') no-repeat center center; background-size: cover; */
+    background: linear-gradient(to bottom right, #010725, #062264, #11337f, #23539f);
 }
